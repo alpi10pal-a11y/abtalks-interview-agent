@@ -1,0 +1,18 @@
+{
+  "topics": [
+    {
+      "name": "Python Basics",
+      "questions": [
+        "What are Python data types?",
+        "Explain list vs tuple."
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "questions": [
+        "What is supervised learning?",
+        "Explain overfitting."
+      ]
+    }
+  ]
+}
